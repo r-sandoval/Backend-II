@@ -1,0 +1,16 @@
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.DS_Store
+
+# Archivos de configuracion con credenciales
+application.properties.bak
+*.log
+
+# Entorno
+.env
